@@ -1,6 +1,6 @@
 # Opis problema in ciljev analize podatkov
 
-Bruto domači proizvod (BDP) na prebivalca velja za enega najpomembnejših indikatorjev bogastva in razvitosti države. Glavni cilj analize podatkov je ugotoviti, s katerimi statistikami države se da napovedati BDP na prebivalca (in obratno, katere statistike se da napovedovati s podatkom o BDP na prebivalca). V nekaterih primerih bo verjetno težko povedati, kaj je vzrok in kaj je posledica (na primer ali je visoka stopnja urbanizacije vzrok ali posledica visokega BDP na prebivalca).
+Bruto domači proizvod (BDP) na prebivalca velja za enega najpomembnejših indikatorjev bogastva in razvitosti države. Glavni cilj analize podatkov je ugotoviti, s katerimi statistikami države se da napovedati BDP na prebivalca (in obratno, katere statistike se da napovedovati s podatkom o BDP na prebivalca). V nekaterih primerih bo verjetno težko povedati, kaj je vzrok in kaj je posledica (na primer ali je visoko izobražena populacija vzrok ali posledica visokega BDP na prebivalca).
 
 Podproblemi in podvprašanja:  
 Kakšni so BDP-ji na prebivalca v različnih regijah sveta?  
