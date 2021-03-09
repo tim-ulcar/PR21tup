@@ -17,10 +17,10 @@ Kakšna je povezava med emisijami CO2 in BDP na prebivalca?
 
 # Podatki
 
-Ekonomske, družbene in okoljske statistike držav - podatki Združenih narodov.
+Ekonomske, družbene in okoljske statistike držav - podatki Združenih narodov.  
 Dostopno na: https://www.kaggle.com/sudalairajkumar/undata-country-profiles
 
-Podatki za posamezno državo:
+Podatki za posamezno državo:  
 country  
 Region  
 Surface area (km2)  
